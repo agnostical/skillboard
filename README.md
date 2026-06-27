@@ -13,6 +13,8 @@ Each skill lives in its own directory containing a `SKILL.md` (the skill definit
 
 ## License
 
+Released under the [MIT License](LICENSE).
+
 Copyright (c) 2026 Agnostical
 
 This project was developed with the assistance of artificial intelligence tools powered by large language models (LLMs). These tools were used to accelerate implementation, but the project's vision, architecture, and core features were conceived, designed, and carefully supervised by the author.
